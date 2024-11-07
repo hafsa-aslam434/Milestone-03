@@ -76,7 +76,7 @@ button :hover {
     border: 2px solid rgb(228, 225, 225);
     border-radius: 8px;
     background-color: rgb(228, 225, 255);
-    box-shadow: 0 4px 8px rgb(28, 12, 87);
+    box-shadow: 0 4px 8px rgb(189, 172, 181);
 }
 
 #resume-display h2 {
